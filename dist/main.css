@@ -54,15 +54,15 @@ table {
 
 @font-face {
   font-family: "VR_Standard";
-  src: url(bc933c04827dd05698d4.woff2) format("woff2");
+  src: url(assets/estandar.woff2) format("woff2");
 }
 @font-face {
   font-family: "VR_Standard_Italic";
-  src: url(e75136a265cf7643def0.woff2) format("woff2");
+  src: url(assets/estandar_italic.woff2) format("woff2");
 }
 @font-face {
   font-family: "VR_Handmade";
-  src: url(7c2615b228b63ae05dbc.woff2);
+  src: url(assets/handmade.woff2);
 }
 html {
   --min-width: 320px;
@@ -608,15 +608,15 @@ section {
   \**************************************************************************************************************/
 @font-face {
   font-family: "VR_Standard";
-  src: url(bc933c04827dd05698d4.woff2) format("woff2");
+  src: url(assets/estandar.woff2) format("woff2");
 }
 @font-face {
   font-family: "VR_Standard_Italic";
-  src: url(e75136a265cf7643def0.woff2) format("woff2");
+  src: url(assets/estandar_italic.woff2) format("woff2");
 }
 @font-face {
   font-family: "VR_Handmade";
-  src: url(7c2615b228b63ae05dbc.woff2);
+  src: url(assets/handmade.woff2);
 }
 html {
   --min-width: 320px;

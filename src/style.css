@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'VR_Standard';
+    src: url(./fonts/estandar.woff2) format('woff2')
+
+}
+
+body {
+    font-family: 'VR_Standard'
+}
